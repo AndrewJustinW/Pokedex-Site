@@ -1,0 +1,23 @@
+.pokemon-group {
+
+    background-color: rgb(70, 70, 70);
+    margin: 0 auto;
+    width: 70%;
+    display: flex;
+    flex: 100%;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    border-radius: 15px;
+    padding: 20px
+}
+
+.logo-container {
+    display: flex;
+    justify-content: center;
+}
+
+.pokemon-logo {
+    width: 15%;
+    margin-bottom: 50px;
+}
